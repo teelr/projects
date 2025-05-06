@@ -1,0 +1,7 @@
+Flask
+requests
+pytest
+pylint
+black
+sqlalchemy
+dotenv
