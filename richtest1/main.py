@@ -8,7 +8,7 @@ def multiply(x, y):
 
 
 def subtract(x, y):
-    result = x - y
+    result = x - y + 5
     return result
 
 
